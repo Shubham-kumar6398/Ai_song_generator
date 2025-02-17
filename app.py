@@ -5,10 +5,11 @@ from flask import Flask, request, jsonify, send_file
 from TTS.api import TTS
 from audiocraft.models import MusicGen
 from audiocraft.data.audio import audio_write
-from pydub import AudioSegment
+from pydub import AudioSegment 
 import os
 
 # Initialize Flask app
+
 app = Flask(__name__)
 
 # Initialize Cohere API
