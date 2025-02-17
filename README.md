@@ -71,8 +71,5 @@ http://127.0.0.1:5000/download_song?file=final_song.mp3
 2. Provide a **reference voice** file (`reference_voice.wav`) in the same directory.
 3. Install the **necessary dependencies** before running the project.
 
-## License
-This project is open-source and available for educational and research purposes.
-
 ---
 Enjoy generating AI-powered music! 🎵
